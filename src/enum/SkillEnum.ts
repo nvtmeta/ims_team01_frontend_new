@@ -1,0 +1,8 @@
+export enum SkillEnum {
+  JAVA = "JAVA",
+  NODEJS = "NODEJS",
+  NET = "NET",
+  CPP = "CPP",
+  BUSINESS_ANALYSIS = "BUSINESS_ANALYSIS",
+  COMMUNICATION = "COMMUNICATION",
+}
